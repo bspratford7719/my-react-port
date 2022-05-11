@@ -1,4 +1,4 @@
-import React, from "react";
+import React, {} from "react";
 import AboutMe from './components/About Me';
 import Contact from './components/Contact';
 import Navi from './components/Navi';
