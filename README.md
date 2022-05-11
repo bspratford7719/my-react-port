@@ -6,7 +6,9 @@ I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
 
 # Links
-- github: 
+- github: https://github.com/bspratford7719/my-react-port
+- heroku: https://git.heroku.com/ancient-garden-17271.git
+
 
 # Screenshot
 
